@@ -10,7 +10,7 @@ const
 
 # word list is taken from bigger file (dictionary.txt)
 var add: bool
-for line in "dictionary.txt".lines:
+for line in "60_000_parole.txt".lines:
   add = true
   if line.len == 5 and '\'' notIn line:
     for c in line:
