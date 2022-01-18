@@ -1,6 +1,6 @@
 {
-  "short_name": "Parle",
-  "name": "Par🇮🇹le",
+  "short_name": "PoliticsWordle",
+  "name": "PoliticsWordle",
   "icons": [
     {
       "src": "/wordle-it/images/parle_logo_48x48.png",
@@ -42,5 +42,5 @@
   "background_color": "#6aaa64",
   "display": "standalone",
   "theme_color": "#6aaa64",
-  "description": "Un gioco di parole al giorno (wordle in italiano)"
+  "description": "Tipo Worldle, ma sui politici"
 }
