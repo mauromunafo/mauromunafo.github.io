@@ -939,7 +939,7 @@ this.wordle = this.wordle || {}, this.wordle.bundle = function(e) {
       }]), t
   }(c(HTMLElement));
   customElements.define("game-toast", Ea);
-  var Aa = "letta", "renzi", "lotti"],
+  var Aa = ["letta", "renzi", "lotti"],
       La = ["crimi", "bondi", "monti"],
       Ta = "present",
       Ia = "correct",
