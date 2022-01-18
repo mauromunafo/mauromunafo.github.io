@@ -1,4 +1,4 @@
-Facenso esperimenti su # Par🇮🇹le
+Facendo esperimenti su # Par🇮🇹le
 
 https://pietroppeter.github.io/wordle-it/
 
