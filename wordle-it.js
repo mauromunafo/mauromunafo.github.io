@@ -939,8 +939,8 @@ this.wordle = this.wordle || {}, this.wordle.bundle = function(e) {
       }]), t
   }(c(HTMLElement));
   customElements.define("game-toast", Ea);
-  var Aa = ["letta", "renzi", "lotti"],
-      La = ["crimi", "bondi", "monti"],
+  var Aa = ["letta", "renzi", "lotti", "madia", "conte", "grillo"],
+      La = ["crimi", "bondi", "monti", "scoma", "sasso", "liuni", "tasso", "nitti", "raffa", "boldi", "curro", "varchi", "pella", "nappi", "turri", "delia", "nardi", "bella", "frate", "billi", "ferro", "iorio", "gadda", "colla", "tateo", "lepri", "sisto", "sensi", "iezzi", "spena", "corda", "sorte", "penna", "mauri", "tucci", "costa", "lapia", "sarti", "menga", "ferri", "nesci", "tondo", "paxia", "fiano", "donno", "volpi", "braga", "torto", "trano", "vazio", "scanu", "silli", "galli", "berti", "rosso", "flati", "rotta", "bordo", "russo", "rossi", "butti", "dinca", "sutto", "marin", "gallo", "mammi", "sarli", "vinci", "vacca", "sapia", "madia", "siani", "manca", "scerra", "bruno", "dieni", "ciaga", "manzo", "conte", "scerra", "paita", "sarro", "rospi", "longo", "aprea"],
       Ta = "present",
       Ia = "correct",
       Ca = "absent";
